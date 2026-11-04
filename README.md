@@ -9,6 +9,8 @@ The application analyses notification messages, recommends suitable actions, and
 ## Project Preview
 *Dashboard preview of the Smart Notification Assistant.*
 ![Smart Notification Assistant](assests/dashboard.png)
+![Smart Notification Assistant](assests/dashboard1.png)
+![Smart Notification Assistant](assests/dashboard2.png)
 
 ## Overview
 
