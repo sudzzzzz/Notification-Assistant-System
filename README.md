@@ -7,10 +7,8 @@ An AI-powered notification management system that helps users organize notificat
 The application analyses notification messages, recommends suitable actions, and learns from user feedback to provide personalized suggestions over time.
 
 ## Project Preview
-
-assests/dashboard.png
-
 *Dashboard preview of the Smart Notification Assistant.*
+(assests/dashboard.png)
 
 ## Overview
 
